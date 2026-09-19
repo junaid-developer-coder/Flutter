@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Flutter Setup Logo" width="140" />
+  <img src="assets/Flutter_logo.svg" alt="Flutter Setup Logo" width="140" />
 </p>
 
 <h1 align="center">Flutter Setup Guide</h1>
